@@ -1,0 +1,15 @@
+﻿  Custom.cpp
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(34): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(47): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(56): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(71): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(81): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+d:\code\vs\tcpsrv\tcpsrv\custom.cpp(113): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+  TCPSrv.vcxproj -> D:\code\vs\TCPSrv\Debug\TCPSrv.exe
+  TCPSrv.vcxproj -> D:\code\vs\TCPSrv\Debug\TCPSrv.pdb (Full PDB)
